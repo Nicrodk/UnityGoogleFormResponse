@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Additions:
+# ProjectSettings, this is not a project for building
+ProjectSettings/
+
+# UserSettings
+UserSettings/
